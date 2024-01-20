@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-### Follow Top Line Tech Media and Markeitng.
+### Follow Top Line Tech Media and Markeitng service
+Business logic are not uploaded due to idea security reasons.
 
 <!--
 **Triaooz/triaooz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
